@@ -1,0 +1,331 @@
+#JSGF V1.0;
+
+grammar patikra;
+
+public <COMMAND> =
+abipusė lygiuotė | 
+adresai | 
+adresatai | 
+adresų knyga | 
+ankstesnė diena | 
+ankstesnė programa | 
+ankstesnė savaitė | 
+ankstesnis | 
+ankstesnis elementas | 
+ankstesnis laiškas | 
+ankstesnis laukas | 
+ankstesnis mėnuo | 
+ankstesnis neatsakytas laiškas | 
+ankstesnis neskaitytas laiškas | 
+ankstesnis puslapis | 
+antra funkcija | 
+anuliuok veiksmą | 
+aplankų medis | 
+aštunta funkcija | 
+atgal | 
+atkurk mastelį | 
+atsakyk | 
+atsakyk į laišką | 
+atsakyk visiems | 
+atsakyk visiems į laišką | 
+atšauk veiksmą | 
+atsisakyk | 
+atstatyk | 
+atstatyk veiksmą | 
+atverk | 
+atverk administratoriaus teisėmis | 
+atverk aplanką | 
+atverk diską | 
+atverk laišką | 
+aukštyn | 
+centrinė lygiuotė | 
+darbalaukis | 
+dešimta funkcija | 
+dešinėn | 
+dešininė lygiuotė | 
+devinta funkcija | 
+dokumentai | 
+eik atgal | 
+eik aukštyn | 
+eik dešinėn | 
+eik į dešinę | 
+eik į kairę | 
+eik kairėn | 
+eik toliau | 
+eik žemyn | 
+failų sąrašas | 
+garsiau | 
+gauti laiškai | 
+gerai | 
+grąžink langus | 
+grąžink veiksmą | 
+grok | 
+į ankstesnę programą | 
+į ankstesnį elementą | 
+į ankstesnį lauką | 
+į aplankų medį | 
+įdėk | 
+į dešinę | 
+į failų sąrašą | 
+įjunk abipusę lygiuotę | 
+įjunk centrinę lygiuotę | 
+įjunk dešininę lygiuotę | 
+įjunk garsą | 
+įjunk kairinę lygiuotę | 
+įjunk kursyvą | 
+įjunk miego būseną | 
+įjunk miego režimą | 
+įjunk naršytuvą | 
+įjunk pabraukimą | 
+įjunk pusjuodį | 
+įjunk spaudinio peržiūrą | 
+į kairę | 
+įklijuok | 
+į laiškų sąrašą | 
+į naršymo sritį | 
+į pabaigą | 
+į pradžią | 
+įrašyk | 
+įrašyk ir užverk | 
+įrašyk ir užverk adresatą | 
+įrašyk ir užverk įvykį | 
+įrašyk ir užverk kontaktą | 
+įrašyk ir užverk laišką | 
+įrašyk ir užverk paskyrą | 
+įrašyk ir užverk susitikimą | 
+įrašyk laišką | 
+ir užverk laišką | 
+išeik iš sistemos | 
+išeik iš viso ekrano | 
+išeiti iš sistemos | 
+išjunk garsą | 
+išjunk kompiuterį | 
+išjunk kursyvą | 
+išjunk programą | 
+išjunk pusjuodį | 
+išjunk spaudinio peržiūrą | 
+išjunk visą ekraną | 
+iškirpk | 
+išsaugok | 
+išsaugok dokumentą | 
+išsaugok kitu vardu | 
+išsaugok kitu vardu dokumentą | 
+išsiųsk | 
+išsiųsk laišką | 
+išsiųsti laiškai | 
+išskleisk | 
+išskleisk elementus | 
+išskleisk langą | 
+įterpk euro ženklą | 
+įterpk lentelę | 
+įterpk paveikslą | 
+į tolesnę programą | 
+į tolesnį elementą | 
+į tolesnį lauką | 
+į viršaplankį | 
+juodraščiai | 
+kairėn | 
+kairinė lygiuotė | 
+kalendorius | 
+ketvirta funkcija | 
+kompiuteris | 
+kontaktai | 
+kopijuok | 
+kursyvas | 
+laiškų sąrašas | 
+mano dokumentai | 
+mano kompiuteris | 
+mano muzika | 
+mano paveikslai | 
+mano siuntos | 
+muzika | 
+naršymo sritis | 
+naršytuvas | 
+nauja paskyra | 
+naujas adresatas | 
+naujas dokumentas | 
+naujas įvykis | 
+naujas kontaktas | 
+naujas laiškas | 
+naujas susitikimas | 
+ne | 
+pabraukimas | 
+padaryk garsiau | 
+padaryk tyliau | 
+padidink langą | 
+padidink mastelį | 
+padidink šriftą | 
+paleisk | 
+paleisk administratoriaus teisėmis | 
+paleisk failą | 
+paleisk failų tvarkytuvę | 
+paleisk leistuvę | 
+paleisk paštą | 
+paleisk pašto programą | 
+paleisk pateikčių rengyklę | 
+paleisk rašyklę | 
+paleisk skaičiuoklę | 
+parodyk adresatus | 
+parodyk adresų knygą | 
+parodyk adresus | 
+parodyk ankstesnę dieną | 
+parodyk ankstesnę savaitę | 
+parodyk ankstesnį laišką | 
+parodyk ankstesnį mėnesį | 
+parodyk ankstesnį neskaitytą laišką | 
+parodyk darbalaukį | 
+parodyk dideles piktogramas | 
+parodyk dieną | 
+parodyk failų tvarkytuvę | 
+parodyk gautus laiškus | 
+parodyk išklotines | 
+parodyk išsamią informaciją | 
+parodyk išsiųstus laiškus | 
+parodyk juodraščius | 
+parodyk kalendorių | 
+parodyk komandas | 
+parodyk kontaktus | 
+parodyk leistuvę | 
+parodyk mažas piktogramas | 
+parodyk mėnesį | 
+parodyk padidintas piktogramas | 
+parodyk pašalintus laiškus | 
+parodyk paštą | 
+parodyk pašto programą | 
+parodyk pateikčių rengyklę | 
+parodyk rašyklę | 
+parodyk sąrašą | 
+parodyk savaitę | 
+parodyk savybes | 
+parodyk šiandieną | 
+parodyk šiukšliadėžę | 
+parodyk skaičiuoklę | 
+parodyk tolesnę dieną | 
+parodyk tolesnę savaitę | 
+parodyk tolesnį laišką | 
+parodyk tolesnį mėnesį | 
+parodyk tolesnį neskaitytą laišką | 
+parodyk turinį | 
+parodyk vidutines piktogramas | 
+parodyk visame ekrane | 
+pašalink | 
+paspausk ne | 
+paspausk taip | 
+paštas | 
+patikrink paštą | 
+pauzė | 
+paveikslai | 
+pažymėk viską | 
+penkta funkcija | 
+perdaryk veiksmą | 
+pereik į ankstesnį elementą | 
+pereik į ankstesnį lauką | 
+pereik į aplankų medį | 
+pereik į failų sąrašą | 
+pereik į laiškų sąrašą | 
+pereik į naršymo sritį | 
+pereik į pabaigą | 
+pereik į pradžią | 
+pereik į tolesnį elementą | 
+pereik į tolesnį lauką | 
+perjunk ankstesnę programą | 
+perjunk į ankstesnę programą | 
+perjunk į tolesnę programą | 
+perjunk programą | 
+persiųsk | 
+persiųsk laišką | 
+pirma funkcija | 
+pridėk priedą | 
+pristabdyk | 
+pusjuodis | 
+puslapiu aukštyn | 
+puslapiu dešinėn | 
+puslapiu į dešinę | 
+puslapiu į kairę | 
+puslapiu kairėn | 
+puslapiu žemyn | 
+rodyk dideles piktogramas | 
+rodyk dieną | 
+rodyk išklotines | 
+rodyk išsamią informaciją | 
+rodyk mažas piktogramas | 
+rodyk mėnesį | 
+rodyk padidintas piktogramas | 
+rodyk sąrašą | 
+rodyk savaitę | 
+rodyk turinį | 
+rodyk vidutines piktogramas | 
+rodyk visame ekrane | 
+septinta funkcija | 
+šešta funkcija | 
+šiandiena | 
+šiukšliadėžė | 
+siuntos | 
+slink aukštyn | 
+slink dešinėn | 
+slink į dešinę | 
+slink į kairę | 
+slink kairėn | 
+slink žemyn | 
+spaudinio peržiūra | 
+spausdink | 
+spausdink dokumentą | 
+spausdink laišką | 
+spausk ne | 
+spausk taip | 
+stabdyk | 
+stop | 
+sugrąžink langus | 
+sukurk naują adresatą | 
+sukurk naują dokumentą | 
+sukurk naują įvykį | 
+sukurk naują kontaktą | 
+sukurk naują laišką | 
+sukurk naują paskyrą | 
+sukurk naują susitikimą | 
+sumažink langą | 
+sumažink mastelį | 
+sumažink šriftą | 
+surikiuok pagal datą | 
+surikiuok pagal pavadinimą | 
+susitikimą | 
+suskleisk | 
+suskleisk elementus | 
+suskleisk langą | 
+taikyk | 
+taip | 
+tęsk | 
+tyliau | 
+tolesnė diena | 
+tolesnė programa | 
+tolesnė savaitė | 
+tolesnis | 
+tolesnis elementas | 
+tolesnis laiškas | 
+tolesnis laukas | 
+tolesnis mėnuo | 
+tolesnis neskaitytas laiškas | 
+tolesnis puslapis | 
+toliau | 
+trečia funkcija | 
+užbaik programos darbą | 
+užmigdyk kompiuterį | 
+užrakink kompiuterį | 
+užverk | 
+užverk dokumentą | 
+užverk langą | 
+valdymo skydelis | 
+viršaplankis | 
+visas ekranas | 
+vykdyk antrą funkciją | 
+vykdyk aštuntą funkciją | 
+vykdyk dešimtą funkciją | 
+vykdyk devintą funkciją | 
+vykdyk ketvirtą funkciją | 
+vykdyk penktą funkciją | 
+vykdyk pirmą funkciją | 
+vykdyk septintą funkciją | 
+vykdyk šeštą funkciją | 
+vykdyk trečią funkciją | 
+žemyn | 
+žymėk viską;
