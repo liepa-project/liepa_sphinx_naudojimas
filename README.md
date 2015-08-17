@@ -10,7 +10,7 @@
 1. Paleiskite win_sphinx_naudojimas.bat
 1. Ištarkite: Tarkite: 'sukurk naują dokumentą' arba 'parodyk kalendorių'
 1. Jei viskas gerai:
-'''
+```
 Tarkite: 'sukurk naują dokumentą' arba 'parodyk kalendorių'
 READY....
 Listening...
@@ -20,8 +20,9 @@ Listening...
 parodyk kalendorių
 READY....
 Listening...
-'''
-1. Sustabdyti programą laikykite nuspaudę Control ir tada spauskite C
+```
+
+**Pastaba**: Sustabdyti programą laikykite nuspaudę Control ir tada spauskite C
 
 
 # Nuorodos
