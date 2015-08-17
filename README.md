@@ -27,3 +27,4 @@ Listening...
 # Nuorodos
 - Apie Liepa: https://www.raštija.lt/liepa
 - Parsisiųsti CMU Sphinx http://sourceforge.net/projects/cmusphinx/files/pocketsphinx/5prealpha/
+
