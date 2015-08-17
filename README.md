@@ -6,7 +6,7 @@
 
 1. Parsisiųktie atpažinimo variklį(nuoroda apačioje)
 1. Parsiųskite failus: https://github.com/liepa-project/liepa_sphinx_naudojimas/archive/master.zip
-1. Nueikite į katalogą: pabandyti\pirma
+1. Nueikite į katalogą: [pabandyti\pirma](tree/master/pabandyti/pirmas)
 1. Paleiskite win_sphinx_naudojimas.bat
 1. Ištarkite: Tarkite: 'sukurk naują dokumentą' arba 'parodyk kalendorių'
 1. Jei viskas gerai:
