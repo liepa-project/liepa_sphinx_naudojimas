@@ -24,6 +24,9 @@ Listening...
 
 **Pastaba**: Sustabdyti programą laikykite nuspaudę Control ir tada spauskite C
 
+#Daugiau informacijos 
+
+Daugiau informacijos galite rasti [Wiki](https://github.com/liepa-project/liepa_sphinx_naudojimas/wiki)
 
 # Nuorodos
 - Apie Liepa: https://www.raštija.lt/liepa
