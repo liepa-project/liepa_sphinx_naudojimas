@@ -5,11 +5,11 @@
 # Pirmas bandymas
 
 1. Parsisiųktie atpažinimo variklį [5prealpha versija](http://sourceforge.net/projects/cmusphinx/files/pocketsphinx/5prealpha/)
-1. Parsiųskite Liepa failus atpažintuvus: https://github.com/liepa-project/liepa_sphinx_naudojimas/archive/master.zip
+1. Parsiųskite šio Liepos projekto failus atpažintuvui: [liepa_sphinx_naudojimas.zip](https://github.com/liepa-project/liepa_sphinx_naudojimas/archive/master.zip)
 1. Nueikite į katalogą: [pabandyti\pirma](../../tree/master/pabandyti/pirmas)
-1. Paleiskite win_liepa_naudojimas.bat (Detaliau wiki [Atpažintuvo pagrindiniai parametrai](https://github.com/liepa-project/liepa_sphinx_naudojimas/wiki/Atpa%C5%BEintuvo-pagrindiniai-parametrai) )
+1. Paleiskite MS Windows operacinei sistemai skritą paleidimo bylą `win_liepa_naudojimas.bat` (Detaliau apie veikimą wiki [Atpažintuvo pagrindiniai parametrai](https://github.com/liepa-project/liepa_sphinx_naudojimas/wiki/Atpa%C5%BEintuvo-pagrindiniai-parametrai) )
 1. Tarkite į mikrafoną: 'sukurk naują dokumentą' arba 'parodyk kalendorių'
-1. Jei viskas gerai turite matyti:
+1. Jei viskas gerai turite matyti komandinės eilutės lange:
 ```
 Tarkite: 'sukurk naują dokumentą' arba 'parodyk kalendorių'
 READY....
