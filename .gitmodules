@@ -1,0 +1,3 @@
+[submodule "sphinx/liepa_akustinis_modelis"]
+	path = sphinx/liepa_akustinis_modelis
+	url = git@github.com:liepa-project/liepa_akustinis_modelis.git
