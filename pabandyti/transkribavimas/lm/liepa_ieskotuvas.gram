@@ -1,0 +1,80 @@
+#JSGF V1.0;
+
+grammar gramatika-min;
+
+public <COMMAND> =
+akmens bokštų kelias | 
+angkoras | 
+antras | 
+aprašymai | 
+atgal | 
+atono kalnas | 
+baigti darbą | 
+baikalo ežeras | 
+dainų ir šokių švenčių tradicija | 
+daugiau nuotraukų | 
+didysis barjerinis rifas | 
+didysis kanjonas | 
+didžioji kinijos siena | 
+džemės didžioji mečetė | 
+egipto piramidės | 
+galapagų sąlos | 
+gamtos paveldo objektai | 
+garsiau | 
+grįžti į pradžią | 
+grįžti į skyriaus turinį | 
+grįžti į temos turinį | 
+ieškok | 
+išjunk garsą | 
+junesko ir lietuva | 
+kapadokija | 
+kernavė | 
+ketvirtas | 
+kilimandžaras | 
+komandų sąrašas | 
+kristaus satatula | 
+kryždirbystė ir kryžių simbolika | 
+kultūros paveldo objektai | 
+kuršių nerija | 
+ką daryti | 
+lietuvių polifoninės dainos ir sutartinės | 
+lietuvių polifoninės dainos sutartinės | 
+mamuto urvas | 
+maču pikču | 
+meteoros vienuolynai | 
+milžinų kelias | 
+mišrūs paveldo objektai | 
+naskos piešiniai | 
+nuotraukos | 
+padidink | 
+pagalba | 
+petra | 
+pietūs | 
+pirmas | 
+rodyk | 
+rodyk skyriaus turinį | 
+rodyk turinį | 
+rytai | 
+simono petro vienuolynas | 
+skyriaus turinys | 
+stounhedžas | 
+struvės geodezinis lankas | 
+sugrįžti į temos turinį | 
+sumažink | 
+sustok | 
+sužinoti daugiau | 
+tadžmahalas | 
+trečias | 
+turinys | 
+tyliau | 
+uluru | 
+vaizdo įrašai | 
+vakarai | 
+vakarų norvegijos fiordai | 
+veiklų sąrašas | 
+viktorijos krioklys | 
+vilniaus senamiestis | 
+čičen ica | 
+įjunk garsą | 
+šiaurė | 
+žemėlapiai;
